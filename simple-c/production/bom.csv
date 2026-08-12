@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J2, J3, TP3, TP4",TESTPOINT_PAD_2MM,4,,
+J3_2,connector,1,+ pad,
+J4,connector,1,- pad,
+J5,PinHeader_1x02_P2.54mm_Vertical,1,breadboard connector,
+"U$2_4, U$2_3, U$2_2, U$2",SYMBOL_PLUS,4,,
+"U$3_4, U$3_3, U$3_2, U$3",SYMBOL_MINUS,4,,

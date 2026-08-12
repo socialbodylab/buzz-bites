@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lilypad_vibe_board_sch")(type "KiCad")(uri "${KIPRJMOD}/lilypad_vibe_board_sch.kicad_sym")(options "")(descr ""))
+)

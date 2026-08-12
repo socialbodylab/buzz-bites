@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,D_DO-41_SOD81_P7.62mm_Horizontal,1,D,
+"H1, H2",rounde_connector,2,MountingHole_Pad,
+J1,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
+M1,VIBE-MOTOR-10MM-SMD,1,Vibration Motor,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,R,
+"U$2_4, U$2_3, U$2_2, U$2",SYMBOL_PLUS,4,,
+"U$3_4, U$3_3, U$3_2, U$3",SYMBOL_MINUS,4,,

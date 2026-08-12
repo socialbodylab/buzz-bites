@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_2, ",,2,,
+"H1, H2",edge_tiny,2,MountingHole_Pad,
+"J2, J3, TP3, TP4",TESTPOINT_PAD_2MM,4,,
+"U$2_3, U$2_2, U$2",SYMBOL_PLUS,3,,
+"U$3_3, U$3_2, U$3",SYMBOL_MINUS,3,,

@@ -1,0 +1,100 @@
+(footprint "rounde_connector"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3.92 -5.47 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3f4e7071-928a-4d29-8fad-4fe36bbe9455")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "rounde_connector"
+		(at 8.13 5.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a88a0f9b-a5b6-47b4-8e21-dd6eaf4b9205")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff172628-3440-4e12-b7f7-8821d27027aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0f0f64fa-9563-453c-bed1-410b93b32411")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at 7.71 7.61 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c011cb8a-e45e-456b-a1e4-adc5d635b08d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole custom
+		(at 0 0)
+		(size 4 4)
+		(drill 3.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(arc
+						(start 0 6.93)
+						(mid 2.8705 0)
+						(end 0 -6.93)
+					)
+					(arc
+						(start 0 -6.93)
+						(mid -2.8705 0)
+						(end 0 6.93)
+					)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "c93be2c4-59a5-4572-b090-898da8022153")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"H1, H2",edge_tiny,2,MountingHole_Pad,
+J1,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
+"J2, J3, TP3, TP4",TESTPOINT_PAD_2MM,4,,
+"U$2_2, U$2",SYMBOL_PLUS,2,,
+"U$3_2, U$3",SYMBOL_MINUS,2,,
